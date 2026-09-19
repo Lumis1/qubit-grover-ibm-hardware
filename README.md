@@ -21,7 +21,8 @@ Empirical Implementation of Grover's Quantum Search Algorithm on Real IBM Quantu
 * 3-Qubit Grover (common CCZ - Level 3 passes): 71.24% fidelity on `ibm_fez`
 * 3-Qubit Grover (topology-dependent CCZ - Level 3 passes): only 56.42% fidelity on `ibm_marrakesh` due to calibration and topology effects
 * Relative-phase Toffoli experiment with Margolus Gates: constructive phase interference observed on 011 on uncorrected relative phases
-<img width="1279" height="907" alt="image" src="https://github.com/user-attachments/assets/6d345751-6530-4563-bb28-9194cce8dee8" />
+<img width="1404" height="908" alt="Screenshot 2026-09-19 140646" src="https://github.com/user-attachments/assets/6e2c22c1-91c6-4c9a-b9e1-d0fb138b0ed3" />
+
 <img width="631" height="555" alt="Screenshot 2026-09-19 145532" src="https://github.com/user-attachments/assets/b6190ced-b56c-4283-b0be-4bd05d327c4e" />
 ---
 
