@@ -1,3 +1,4 @@
+<img width="1413" height="780" alt="Screenshot 2026-09-19 151208" src="https://github.com/user-attachments/assets/fac8b565-cfba-45b8-baa5-69ac8661d4bc" />
 # 3-Qubit Grover Search Benchmarking on IBM Quantum Hardware
 
 Benchmarking 3-qubit Grover's search on actual IBM Quantum QPUs with Qiskit.
@@ -28,3 +29,4 @@ Empirical Implementation of Grover's Quantum Search Algorithm on Real IBM Quantu
 1. Multi-controlled `ccz` gates (multi-controlled Toffoli equivalents) decompose into native 2-qubit gates: depth (and error) increases with number of control qubits
 2. Automated pass manager layout optimized beyond fixed qubit mapping due to calibration variation
 3. QEC scaling to larger registers must occur for larger register sizes!
+<img width="1279" height="907" alt="image" src="https://github.com/user-attachments/assets/6d345751-6530-4563-bb28-9194cce8dee8" />
